@@ -75,6 +75,10 @@ A Discord bot that fetches economic calendar events from FunderPro for specific 
 - `number_of_days`: How many days ahead to fetch events (e.g., 2, 7)
 - `currency_pair`: The trading pair to analyze (e.g., XAU/USD, EUR/USD, GBP/USD)
 
+## Demo
+
+![Bot Demo](https://github.com/Anthony-Dominguez/FunderCal/raw/master/demo.mp4)
+
 ## Example Output
 
 The bot will display events in a formatted message showing:
