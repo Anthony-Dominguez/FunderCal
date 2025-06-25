@@ -77,7 +77,7 @@ A Discord bot that fetches economic calendar events from FunderPro for specific 
 
 ## Demo
 
-![Bot Demo](https://github.com/Anthony-Dominguez/FunderCal/raw/master/demo.mp4)
+[![Bot Demo](https://img.youtube.com/vi/7ptj_qaNcHg/0.jpg)](https://www.youtube.com/watch?v=7ptj_qaNcHg)
 
 ## Example Output
 
